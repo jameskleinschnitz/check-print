@@ -1,8 +1,7 @@
 # check-print: Print Checks From Your Web Browser
 
-This is an HTML file that formats check properties for printing on [QuickBooks-compliant standard business checks](https://duckduckgo.com/?q=quickbooks+standard+business+checks) - directly from a web browser. I've written an [article](http://blog.michaelscepaniak.com/how-to-print-checks-without-quickbooks) on my [blog](http://blog.michaelscepaniak.com) explaining why you would want [a template for printing checks outside of QuickBooks](http://blog.michaelscepaniak.com/how-to-print-checks-without-quickbooks), so I'm not going to re-state it here.
+This is an HTML file that formats check properties for printing on PeachTree Checks - directly from a web browser. 
 
-**Please be aware**, you need to purchase and supply your own QuickBooks-compliant checks onto which your check **properties** will be printed.
 
 ## Directions
 
@@ -24,7 +23,7 @@ This is an HTML file that formats check properties for printing on [QuickBooks-c
 
 I've tested this on the following browsers:
 
-* Firefox on Mac OS X
+* Chrome on Mac OS X
 * (that's it :)
 
 In addition, I've only tested this on my one printer, with one set of checks. So, your mileage may vary.
